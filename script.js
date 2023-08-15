@@ -56,3 +56,4 @@ document.documentElement.style.setProperty('--color-primary', 'red');
 const logo = document.querySelector('.nav__logo');
 console.log(logo.setAttribute('src', 'secretary'));
 logo.classList.toggle('nav__links', true);
+console.log('VAIBHAV');
